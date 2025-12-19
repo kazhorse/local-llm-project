@@ -1,0 +1,7 @@
+model_id=text-embedding-qwen3-embedding-0.6b
+input_csv=コマンド推論用_1000_chunked.csv
+text_col=chunk_text
+batch_size=64
+normalize_l2=True
+num_chunks=12239
+dim=1024
